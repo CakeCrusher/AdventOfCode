@@ -116,7 +116,6 @@ const getProductOfKeys = (obj: object[]): number => {
 
 // const res = compare_all(batches.slice(5,10));
 // const res = compare_all([batches[5]]);
-
 const part2Res = getProductOfKeys(sortedPackets);
 
 console.log(part2Res);
